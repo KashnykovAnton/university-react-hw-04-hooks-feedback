@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/university-react-hw-04-hooks-feedback/static/css/main.1126babb.css",
-    "main.js": "/university-react-hw-04-hooks-feedback/static/js/main.f9acfbb9.js",
+    "main.js": "/university-react-hw-04-hooks-feedback/static/js/main.6b113de8.js",
     "index.html": "/university-react-hw-04-hooks-feedback/index.html",
     "main.1126babb.css.map": "/university-react-hw-04-hooks-feedback/static/css/main.1126babb.css.map",
-    "main.f9acfbb9.js.map": "/university-react-hw-04-hooks-feedback/static/js/main.f9acfbb9.js.map"
+    "main.6b113de8.js.map": "/university-react-hw-04-hooks-feedback/static/js/main.6b113de8.js.map"
   },
   "entrypoints": [
     "static/css/main.1126babb.css",
-    "static/js/main.f9acfbb9.js"
+    "static/js/main.6b113de8.js"
   ]
 }
